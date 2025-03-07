@@ -1,5 +1,258 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can ignore the camera and you can just talk to the two of us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Childhood;Education;Employment;Families.;Montreal (Quebec)"
+        }
+      ],
+      "uuid": "fcb46b32-485d-42ff-83ae-f178edca2b0b"
+    },
+    {
+      "start_time": 356,
+      "end_time": 514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So after you graduated from university, where did you go next and how did you get started in, in the industry?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillation.;Distilleries;Distillers.;Employment;Whiskey industry;Whiskey."
+        }
+      ],
+      "uuid": "214974e0-6d6f-4d70-b50b-a13e29776a9c"
+    },
+    {
+      "start_time": 514,
+      "end_time": 923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, that brings us here, to Sazerac."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillation.;Distilleries;Distillers.;Employment;Montreal (Quebec);Whiskey industry;Whiskey."
+        }
+      ],
+      "uuid": "2d4bced7-22a2-4857-bdb6-b835b266436c"
+    },
+    {
+      "start_time": 923,
+      "end_time": 1265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, Drew is sitting here, and I'm going to ask what it's like, what you two talk about as you plan for new products"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillation.;Distilleries;Distillers.;Quality control.;Quality of products.;Whiskey industry;Whiskey."
+        }
+      ],
+      "uuid": "7f16d2c7-c70b-4208-bf49-5aca0c743a7a"
+    },
+    {
+      "start_time": 1265,
+      "end_time": 1494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm going to go back and ask a little bit about, um, the Seagram connection."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillation.;Distilleries;Distillers.;Employment;Seagram Company;Whiskey industry;Whiskey."
+        }
+      ],
+      "uuid": "46ae5b7b-0650-4bb6-b64d-1c4843daff3f"
+    },
+    {
+      "start_time": 1494,
+      "end_time": 1929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was going to then switch to--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillation.;Distilleries;Distillers.;Quality control.;Quality of products.;Whiskey industry;Whiskey."
+        }
+      ],
+      "uuid": "01403bd1-6b8c-41bb-9755-b5f791af126c"
+    },
+    {
+      "start_time": 1929,
+      "end_time": 2201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So are you ready for all of the visitors and the tourists and the media questions that the American blenders and master distillers are getting used to?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillation.;Distilleries;Distillers.;Product demonstrations;Quality control.;Quality of products.;Tourism.;Whiskey industry;Whiskey."
+        }
+      ],
+      "uuid": "802ba061-18e5-46da-9f7f-7a7f576d8569"
+    },
+    {
+      "start_time": 2201,
+      "end_time": 2288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So what kind of whisky do you want to make here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillation.;Distilleries;Distillers.;Quality control.;Quality of products.;Whiskey industry;Whiskey."
+        }
+      ],
+      "uuid": "806e8475-237d-469c-9969-9a1e484233b9"
+    },
+    {
+      "start_time": 2288,
+      "end_time": 2423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm going to look. We're just going to think about what questions we've missed,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillation.;Distilleries;Distillers.;Quality control.;Quality of products.;Whiskey industry;Whiskey."
+        }
+      ],
+      "uuid": "73e7609a-6e12-4eef-ad82-d1a7713518ad"
+    },
+    {
+      "start_time": 2423,
+      "end_time": 2532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I have heard, I think Art said it yesterday and maybe I read it--maybe Mr. Sam said this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillation.;Distilleries;Whiskey industry;Whiskey."
+        }
+      ],
+      "uuid": "0a5f86c2-6289-4747-ae07-b6d5c1993d31"
+    },
+    {
+      "start_time": 2532,
+      "end_time": 2700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What, uh--yeah, that's you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillation.;Distilleries;Distillers.;Quality control.;Quality of products.;Whiskey industry;Whiskey."
+        }
+      ],
+      "uuid": "4707c948-6c8e-40c2-a9f8-81ee9038abeb"
+    },
+    {
+      "start_time": 2700,
+      "end_time": 3000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have any--this is sort of a concluding question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillation.;Distilleries;Distillers.;Whiskey industry;Whiskey."
+        }
+      ],
+      "uuid": "783d964b-b2df-417d-9dab-64cc67e373e3"
+    }
+  ],
   "event_id": "fe2dd424-7b94-4427-b732-0057a8835674",
   "set": "English Partial Transcript",
   "source_id": "55a18136-2531-4f4c-bc78-f28bd1840389"
